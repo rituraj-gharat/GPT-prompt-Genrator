@@ -8,7 +8,7 @@ function generatePrompt() {
     }
 
     // Example of calling an API (modify with your actual API URL and key handling)
-    fetch('https://api.example.com/generate', {
+    fetch('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', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
